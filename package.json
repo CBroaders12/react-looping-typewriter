@@ -1,5 +1,5 @@
 {
-  "name": "reacttypewriter",
+  "name": "react-looping-typewriter",
   "version": "1.0.0",
   "description": "A typewriter component for React",
   "main": "build/index.js",
